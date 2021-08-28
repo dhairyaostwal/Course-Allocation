@@ -29,9 +29,8 @@ The students can either register or delete a particular course by entering the n
 
 - Everything possible corner case that I could think of has been handled and verified.
 
-## Code & Output screenshots
+## Output screenshots
 
-![Code](screenshots/code_screenshot_vscode.jpg)
 ![Output](screenshots/output_part_1.jpg)
 ![Output](screenshots/output_part_2.jpg)
 
